@@ -1,0 +1,7 @@
+.jokes {
+  margin: 80px auto 0;
+  width: 800px;
+  padding: 40px;
+  border-radius: var(--border-rd-lg);
+  background: var(--color-grey500);
+}
