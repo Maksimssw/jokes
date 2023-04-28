@@ -1,7 +1,10 @@
+import GeneratorJokes from "../GeneratorJokes";
+
 function App() {
   return (
-    <div className="App">
-    </div>
+    <main>
+      <GeneratorJokes />
+    </main>
   );
 }
 
